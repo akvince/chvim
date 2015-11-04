@@ -1,8 +1,5 @@
 body {
-  background-image:url(simplon.jpg);
-  background-attachment:fixed;
-background-size: 78%;
-background-repeat: no-repeat;
+background-color: #021200;
 color: #black;
 }
 
@@ -16,9 +13,8 @@ border-radius: 20px;
 left: 30px;
 right: 300px;
 bottom: auto;
-border: solid #ed1651 5px;
+border: solid gray 5px;
 padding-left: 10px;
- background-color: rgba(210, 210, 210, 0.6);
- color: black;
+ color: lightgray;
  font-size: 28px;
 }
