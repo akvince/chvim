@@ -2,11 +2,8 @@ body {
   background-color: #021200;
   color: #black;
 }
-h1 {
-  font-size: 2.1em;
-}
 section {
-  position: sticky;
+  font-size: 2em;
   border-radius: 20px;
   margin-left: 1%;
   margin-right: 3%;
