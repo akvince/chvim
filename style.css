@@ -2,11 +2,9 @@ body {
   background-color: #021200;
   color: #black;
 }
-
 h1 {
   font-size: 2.1em;
 }
-
 section {
   position: sticky;
   border-radius: 20px;
@@ -14,10 +12,9 @@ section {
   margin-right: 3%;
   border: solid gray 5px;
   padding-left: 1%;
- color: lightgray;
- font-size: 1.75em;
+  color: lightgray;
+  font-size: 1.75em;
 }
-
 code {
   background-color: grey;
   border-radius: 5px;
